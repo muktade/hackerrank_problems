@@ -1,0 +1,5 @@
+package test.hacker.basicjava.impliment;
+
+public interface AdvancedArithmetic {
+    int divisor_sum(int n);
+}
