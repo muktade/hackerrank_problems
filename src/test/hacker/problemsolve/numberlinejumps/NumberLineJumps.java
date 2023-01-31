@@ -11,6 +11,7 @@ public class NumberLineJumps {
         int v1=sc.nextInt();
         int x2=sc.nextInt();
         int v2=sc.nextInt();
+        sc.close();
         String result = Solution.kangaroo(x1,v1,x2,v2);
         System.out.println(result);
     }

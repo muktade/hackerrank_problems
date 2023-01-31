@@ -15,7 +15,7 @@ public class Solution {
         }
     }
     public static boolean test(int x1, int v1, int x2, int v2) {
-        int T = 43;
+        int T = 10000;
         TreeMap<Integer, Long> map1= new TreeMap<Integer, Long>();
         TreeMap<Integer, Long> map2= new TreeMap<Integer, Long>();
         while (T-- > 1) {
